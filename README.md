@@ -28,7 +28,8 @@ Foram analisadas variáveis relacionadas ao tempo de uso, comportamento antes de
 - **NumPy**  
 - **Matplotlib / Seaborn**  
 - **Jupyter Notebook**  
-- **Kaggle**  
+- **Kaggle**
+- **Power Bi**
 
 ---
 
@@ -82,9 +83,14 @@ A ausência de relações significativas sugere que:
 - Explorar abordagens não lineares e análise de interações entre variáveis  
 
 ---
+## Dashboard 
+
+![Dashboard](Dashboard_preview.png)
 
 ## Considerações finais
 
 Este projeto demonstra a importância da análise crítica de dados, evidenciando que nem todo dataset apresenta relações significativas e que conclusões devem sempre ser baseadas em evidências, não em suposições.
+
+
 
 
